@@ -1,2 +1,2 @@
 # HitTheMoleGame
-Javascript Köstebek Yakalama Oyunu
+Javascript Mole Catch Game
